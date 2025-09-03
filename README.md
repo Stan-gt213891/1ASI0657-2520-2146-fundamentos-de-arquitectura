@@ -166,49 +166,53 @@ Nuestro mayor desafío es lograr que los colegios y docentes adopten esta soluci
 
 #### 1.2.2.3. Lean UX Hypothesis Statements.
 
-Hipótesis 1:
+#### Hipótesis 1:
+
 Creemos que al implementar una plataforma que centralice la planificación y el seguimiento de la educación física en colegios, lograremos optimizar la organización de clases y rutinas deportivas, lo que se traducirá en mayor eficiencia administrativa y mejora en el rendimiento de los estudiantes.
 
-Business Outcome: Mayor cantidad de instituciones educativas registradas y aumento en la adopción de la plataforma en la gestión diaria.
+**Business Outcome**: Mayor cantidad de instituciones educativas registradas y aumento en la adopción de la plataforma en la gestión diaria.
 
-Users: Directores y administradores de colegios.
+**Users**:: Directores y administradores de colegios.
 
-User Outcome: Mejor control y supervisión de la educación física en la institución.
+**User Outcome**: Mejor control y supervisión de la educación física en la institución.
 
-Feature: Panel de gestión institucional, control de clases y asistencia, reportes de desempeño escolar.
+**Feature**: Panel de gestión institucional, control de clases y asistencia, reportes de desempeño escolar.
 
-Hipótesis 2:
+#### Hipótesis 2:
+
 Consideramos que si proporcionamos a los docentes herramientas digitales para planificar rutinas personalizadas y registrar evaluaciones, aumentará la calidad pedagógica y la efectividad del seguimiento del progreso físico de los estudiantes.
 
-Business Outcome: Incremento en la recurrencia de uso por parte de los profesores y mayor satisfacción docente.
+**Business Outcome**: Incremento en la recurrencia de uso por parte de los profesores y mayor satisfacción docente.
 
-Users: Profesores de educación física.
+**Users**: Profesores de educación física.
 
-User Outcome: Mayor facilidad para planificar clases, evaluar estudiantes y monitorear su rendimiento.
+**User Outcome**: Mayor facilidad para planificar clases, evaluar estudiantes y monitorear su rendimiento.
 
-Feature: Creación de rutinas personalizadas, registro de evaluaciones, control de asistencia y pruebas físicas.
+**Feature**: Creación de rutinas personalizadas, registro de evaluaciones, control de asistencia y pruebas físicas.
 
-Hipótesis 3:
+#### Hipótesis 3:
+
 Suponemos que al ofrecer a los estudiantes acceso a retos deportivos, rutinas personalizadas y visualización de su progreso, se fomentará la motivación, el compromiso y la práctica continua de la actividad física.
 
-Business Outcome: Aumento en el nivel de participación estudiantil en clases y retos deportivos.
+**Business Outcome**: Aumento en el nivel de participación estudiantil en clases y retos deportivos.
 
-Users: Estudiantes de colegios.
+**Users**: Estudiantes de colegios.
 
-User Outcome: Mayor motivación, desarrollo de hábitos saludables y mejora en el rendimiento físico.
+**User Outcome**: Mayor motivación, desarrollo de hábitos saludables y mejora en el rendimiento físico.
 
-Feature: Perfil de estudiante con historial de rendimiento, retos deportivos gamificados y seguimiento de logros.
+**Feature**: Perfil de estudiante con historial de rendimiento, retos deportivos gamificados y seguimiento de logros.
 
-Hipótesis 4:
+#### Hipótesis 4:
+
 Creemos que al incorporar herramientas de comunicación y reportes automáticos para directivos y padres de familia, mejorará la transparencia y se fortalecerá la confianza en la gestión de la educación física.
 
-Business Outcome: Mejores índices de satisfacción institucional y fidelización de colegios en la plataforma.
+**Business Outcome**: Mejores índices de satisfacción institucional y fidelización de colegios en la plataforma.
 
-Users: Directores, administradores y padres de familia.
+**Users**: Directores, administradores y padres de familia.
 
-User Outcome: Acceso claro a información sobre el rendimiento físico de los estudiantes y confianza en el proceso educativo.
+**User Outcome**: Acceso claro a información sobre el rendimiento físico de los estudiantes y confianza en el proceso educativo.
 
-Feature: Reportes automatizados, analíticas de progreso, comunicación directa entre docentes y padres.
+**Feature**: Reportes automatizados, analíticas de progreso, comunicación directa entre docentes y padres.
 
 #### 1.2.2.4. Lean UX Canvas
 
