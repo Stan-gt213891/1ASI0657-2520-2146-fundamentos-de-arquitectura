@@ -17,7 +17,7 @@
 
 * Integrantes
 
-    * Stanley Jeremy Gutierrez Tume 
+    * Stanley Jeremy Gutierrez Tume U202118152
     * Angel Guillermo Berrospi Marin U202114701
     * Javier Kenyi Mendoza Solis 
 
@@ -109,9 +109,9 @@ Visión: Aspiramos a ser referentes en la innovación educativa, promoviendo un 
 
 | **Integrante**            | **Stanley Jeremy Gutierrez Tume**  |
 |---------------------------|---------------------------------------------------------------------------------------------------|
-| **Código del Estudiante** |                                    |
-| **Carrera**               | Ingeniería de                      |
-| **Descripción**           |                                    |
+| **Código del Estudiante** | U202118152                              |
+| **Carrera**               | Ingeniería de Software                     |
+| **Descripción**           | Me considero una persona responsable y comunicativa, apoyaré en todo lo posible en este trabajo para cumplir los obejtivos del curso.                         |
 | Foto                      |                                    |
 
 
@@ -187,6 +187,8 @@ Nuestro mayor desafío es lograr que los colegios y docentes adopten esta soluci
 ### 2.2.3. Análisis de entrevistas
 
 ## 2.3. Needfinding
+
+Para comprender mejor cómo será la experiencia del usuario con nuestro producto, emplearemos herramientas como User Persona, User Task Matrix, User Journey Mapping, Empathy Mapping y As-is Scenario Mapping.
 
 ### 2.3.1. User Personas
 
