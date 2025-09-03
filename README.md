@@ -19,7 +19,7 @@
 
     * Stanley Jeremy Gutierrez Tume U202118152
     * Angel Guillermo Berrospi Marin U202114701
-    * Javier Kenyi Mendoza Solis 
+    * Javier Kenyi Mendoza Solis U201824550
 
 <div>
 
@@ -69,7 +69,7 @@
 ## Registro de Versiones del Informe
 | Versión | Fecha | Autor | Descripción de modificación |
 |---------|-------|-------------|-------|
-|  TB1 | 11/09/2025 | -Angel Guillermo Berrospi Marin <br> - Kemyi <br> - Jeremy | Se han incluido los siguientes capítulos: <br> - Capítulo I: Introducción <br> - Capítulo II: Requirements Elicitation & Analysis <br> - Capítulo III: Requirements Specification |
+|  TB1 | 11/09/2025 | -Angel Guillermo Berrospi Marin <br> -Javier Kenyi Mendoza Solis <br> - Jeremy | Se han incluido los siguientes capítulos: <br> - Capítulo I: Introducción <br> - Capítulo II: Requirements Elicitation & Analysis <br> - Capítulo III: Requirements Specification |
 
 # Capítulo 1: Introducción
 
@@ -101,10 +101,10 @@ Visión: Aspiramos a ser referentes en la innovación educativa, promoviendo un 
 
 | **Integrante**            | **Javier Kenyi Mendoza Solis**                                             |
 |---------------------------|---------------------------------------------------------------------------------------------------|
-| **Código del Estudiante** |                                    |
-| **Carrera**               | Ingeniería de                                                                     |
-| **Descripción**           |        |
-| Foto                      |        |
+| **Código del Estudiante** | U201824550                                   |
+| **Carrera**               | Ingeniería de Software                                                                     |
+| **Descripción**           | Estudio la carrera de Ingeniería de Software. Crear programas en entornos distintos para poder ampliar mi conocimiento es de las cosas que me apasionan.      |
+| Foto                      |  ![Integrante-Kenyi-Mendoza.jpg](../1ASI0657-2520-2146-fundamentos-de-arquitectura/resources/)      |
 
 
 | **Integrante**            | **Stanley Jeremy Gutierrez Tume**  |
