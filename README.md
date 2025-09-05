@@ -172,51 +172,56 @@ Nuestro mayor desafío es lograr que los colegios y docentes adopten esta soluci
 
 #### Hipótesis 1:
 
-Creemos que al implementar una plataforma que centralice la planificación y el seguimiento de la educación física en colegios, lograremos optimizar la organización de clases y rutinas deportivas, lo que se traducirá en mayor eficiencia administrativa y mejora en el rendimiento de los estudiantes.
+Creemos que al implementar una plataforma que centralice la planificación y el seguimiento de la educación física en colegios, los administradores podrán optimizar la organización de clases y rutinas deportivas, lo que se traducirá en mayor eficiencia institucional y mejor supervisión.
 
-**Business Outcome**: Mayor cantidad de instituciones educativas registradas y aumento en la adopción de la plataforma en la gestión diaria.
+**Business Outcome**: Mayor cantidad de instituciones educativas registradas y adopción sostenida de la plataforma.
 
-**Users**:: Directores y administradores de colegios.
+**Users**: Administradores y directores de colegios.
 
-**User Outcome**: Mejor control y supervisión de la educación física en la institución.
+**User Outcome**: Control centralizado de la gestión de la educación física y acceso a información estratégica.
 
-**Feature**: Panel de gestión institucional, control de clases y asistencia, reportes de desempeño escolar.
+**Feature**: Panel de gestión institucional, control de asistencia, reportes y analíticas.
+---
 
 #### Hipótesis 2:
 
-Consideramos que si proporcionamos a los docentes herramientas digitales para planificar rutinas personalizadas y registrar evaluaciones, aumentará la calidad pedagógica y la efectividad del seguimiento del progreso físico de los estudiantes.
+Consideramos que si proporcionamos a los docentes herramientas digitales para planificar rutinas personalizadas y registrar evaluaciones, aumentará su productividad, la calidad de la enseñanza y la eficiencia en el seguimiento del progreso de los estudiantes.
 
-**Business Outcome**: Incremento en la recurrencia de uso por parte de los profesores y mayor satisfacción docente.
+**Business Outcome**: Mayor recurrencia de uso por parte de los docentes y fidelización de las instituciones.
 
-**Users**: Profesores de educación física.
+**Users**: Docentes de educación física.
 
-**User Outcome**: Mayor facilidad para planificar clases, evaluar estudiantes y monitorear su rendimiento.
+**User Outcome**: Ahorro de tiempo en la gestión de clases, facilidad en la planificación y mejora en el monitoreo de los estudiantes.
 
 **Feature**: Creación de rutinas personalizadas, registro de evaluaciones, control de asistencia y pruebas físicas.
+---
 
 #### Hipótesis 3:
 
-Suponemos que al ofrecer a los estudiantes acceso a retos deportivos, rutinas personalizadas y visualización de su progreso, se fomentará la motivación, el compromiso y la práctica continua de la actividad física.
+Suponemos que al ofrecer reportes automáticos y herramientas de comunicación entre administradores y docentes, se mejorará la coordinación interna y se fortalecerá la toma de decisiones dentro de la institución.
 
-**Business Outcome**: Aumento en el nivel de participación estudiantil en clases y retos deportivos.
+**Business Outcome**: Incremento en la retención de clientes institucionales y satisfacción de directivos.
 
-**Users**: Estudiantes de colegios.
+**Users**: Administradores y docentes.
 
-**User Outcome**: Mayor motivación, desarrollo de hábitos saludables y mejora en el rendimiento físico.
+**User Outcome**: Mayor transparencia, mejor coordinación y confianza en la gestión de la educación física.
 
-**Feature**: Perfil de estudiante con historial de rendimiento, retos deportivos gamificados y seguimiento de logros.
+**Feature**: Reportes automatizados, analíticas de rendimiento, comunicación directa entre administradores y profesores.
+---
 
 #### Hipótesis 4:
 
-Creemos que al incorporar herramientas de comunicación y reportes automáticos para directivos y padres de familia, mejorará la transparencia y se fortalecerá la confianza en la gestión de la educación física.
+Creemos que si incorporamos funciones de seguimiento post-evaluación y herramientas para programar clases de refuerzo, los docentes podrán personalizar aún más la enseñanza y los administradores podrán garantizar una mejora continua en el rendimiento físico de los estudiantes.
 
-**Business Outcome**: Mejores índices de satisfacción institucional y fidelización de colegios en la plataforma.
+**Business Outcome**: Aumento en el uso recurrente de la plataforma y mejores resultados institucionales en evaluaciones físicas.
 
-**Users**: Directores, administradores y padres de familia.
+**Users**: Docentes de educación física y administradores.
 
-**User Outcome**: Acceso claro a información sobre el rendimiento físico de los estudiantes y confianza en el proceso educativo.
+**User Outcome**: Docentes con mayor capacidad de seguimiento y administradores con indicadores claros de progreso estudiantil.
 
-**Feature**: Reportes automatizados, analíticas de progreso, comunicación directa entre docentes y padres.
+**Feature**: Historial de evaluaciones, programación de sesiones de refuerzo y analíticas comparativas de desempeño.
+---
+
 
 #### 1.2.2.4. Lean UX Canvas
 
