@@ -253,6 +253,7 @@ Para comprender mejor cómo será la experiencia del usuario con nuestro product
 *PROFESOR
 ![Empathy Mapping Profesor](https://i.imgur.com/wsyAv8E.png)
 
+
 ### 2.3.4. As-is Scenario Mapping
 
 # Capítulo 3: Requirements Specification
