@@ -104,7 +104,8 @@ Visión: Aspiramos a ser referentes en la innovación educativa, promoviendo un 
 | **Código del Estudiante** | U201824550                                   |
 | **Carrera**               | Ingeniería de Software                                                                     |
 | **Descripción**           | Estudio la carrera de Ingeniería de Software. Crear programas en entornos distintos para poder ampliar mi conocimiento es de las cosas que me apasionan.      |
-| Foto                      |  ![Integrante-Kenyi-Mendoza.jpg](../1ASI0657-2520-2146-fundamentos-de-arquitectura/resources/)      |
+| Foto                      |  ![Integrante-Kenyi-Mendoza](../1ASI0657-2520-2146-fundamentos-de-arquitectura/resources/Integrante-Kenyi-Mendoza.jpg)
+      |
 
 
 | **Integrante**            | **Stanley Jeremy Gutierrez Tume**  |
