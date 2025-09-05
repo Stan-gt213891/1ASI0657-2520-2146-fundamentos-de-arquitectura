@@ -251,7 +251,8 @@ Para comprender mejor cómo será la experiencia del usuario con nuestro product
 ### 2.3.3. Empathy Mapping
 
 *PROFESOR
-![Empathy Mapping Profesor](https://i.imgur.com/wsyAv8E.png)
+![EMPATHY MAPING PROFESOR](https://i.imgur.com/wsyAv8E.png)
+
 
 
 ### 2.3.4. As-is Scenario Mapping
