@@ -241,9 +241,12 @@ Para comprender mejor cómo será la experiencia del usuario con nuestro product
 ### 2.3.1. User Personas
 
 *PROFESOR:
+
 ![USER PERSONA PROFESOR](https://i.imgur.com/NTzo9m3.png)
 
+*ALUMNO:
 
+![User Persona 2](resources/User%20persona%202%20(1).png)
 
 
 ### 2.3.2. User Task Matrix
@@ -251,16 +254,23 @@ Para comprender mejor cómo será la experiencia del usuario con nuestro product
 ### 2.3.3. Empathy Mapping
 
 *PROFESOR
+
 ![Empathy Mapping Profesor](resources/DOCENTE%20(1).png)
 
+*ALUMNO:
 
-
+![Empathy maping Alumno](resources/ALUMNO.png)
 
 
 ### 2.3.4. As-is Scenario Mapping
 
 *PROFESOR
+
 ![AS-IS Profesor](resources/AS-IS%20PROFE.png)
+
+*ALUMNO
+
+![AS IS ALUMNO](resources/AS%20IS%20ALUMNO.png)
 
 # Capítulo 3: Requirements Specification
 
