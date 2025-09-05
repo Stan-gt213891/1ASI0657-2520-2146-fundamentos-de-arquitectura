@@ -181,7 +181,7 @@ Creemos que al implementar una plataforma que centralice la planificación y el 
 **User Outcome**: Control centralizado de la gestión de la educación física y acceso a información estratégica.
 
 **Feature**: Panel de gestión institucional, control de asistencia, reportes y analíticas.
----
+
 
 #### Hipótesis 2:
 
@@ -194,7 +194,7 @@ Consideramos que si proporcionamos a los docentes herramientas digitales para pl
 **User Outcome**: Ahorro de tiempo en la gestión de clases, facilidad en la planificación y mejora en el monitoreo de los estudiantes.
 
 **Feature**: Creación de rutinas personalizadas, registro de evaluaciones, control de asistencia y pruebas físicas.
----
+
 
 #### Hipótesis 3:
 
@@ -207,7 +207,7 @@ Suponemos que al ofrecer reportes automáticos y herramientas de comunicación e
 **User Outcome**: Mayor transparencia, mejor coordinación y confianza en la gestión de la educación física.
 
 **Feature**: Reportes automatizados, analíticas de rendimiento, comunicación directa entre administradores y profesores.
----
+
 
 #### Hipótesis 4:
 
@@ -220,7 +220,6 @@ Creemos que si incorporamos funciones de seguimiento post-evaluación y herramie
 **User Outcome**: Docentes con mayor capacidad de seguimiento y administradores con indicadores claros de progreso estudiantil.
 
 **Feature**: Historial de evaluaciones, programación de sesiones de refuerzo y analíticas comparativas de desempeño.
----
 
 
 #### 1.2.2.4. Lean UX Canvas
