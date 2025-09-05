@@ -240,9 +240,18 @@ Para comprender mejor cómo será la experiencia del usuario con nuestro product
 
 ### 2.3.1. User Personas
 
+*PROFESOR:
+![USER PERSONA PROFESOR](https://i.imgur.com/NTzo9m3.png)
+
+
+
+
 ### 2.3.2. User Task Matrix
 
 ### 2.3.3. Empathy Mapping
+
+*PROFESOR
+![Empathy Mapping Profesor](https://i.imgur.com/wsyAv8E.png)
 
 ### 2.3.4. As-is Scenario Mapping
 
