@@ -259,6 +259,9 @@ Para comprender mejor cómo será la experiencia del usuario con nuestro product
 
 ### 2.3.4. As-is Scenario Mapping
 
+*PROFESOR
+![AS-IS Profesor](resources/AS-IS%20PROFE.png)
+
 # Capítulo 3: Requirements Specification
 
 ### 3.1. To-Be Scenario Mapping
