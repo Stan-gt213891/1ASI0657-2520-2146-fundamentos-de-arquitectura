@@ -216,7 +216,7 @@ Creemos que al incorporar herramientas de comunicación y reportes automáticos 
 
 #### 1.2.2.4. Lean UX Canvas
 
-####1.3. Segmentos Objetivos 
+#### 1.3. Segmentos Objetivos 
 
 **1. Administradores / Directores de Colegios (tomadores de decisiones institucionales)**  
 - Directores que buscan optimizar la gestión de la educación física en su institución.  
