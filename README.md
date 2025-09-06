@@ -226,6 +226,24 @@ En este capítulo se realizará el proceso de Análisis competitivo y Needfindin
 
 ### 2.1.1. Análisis Competitivo
 
+
+
+|---------------------------------------|-----------------------------------------------------------------------------------------------------|  
+| Para identificar fortalezas, debilidades y diferenciadores de plataformas que también ofrecen soluciones digitales en el ámbito educativo. | Sí. Con un enfoque en la educación física escolar y la personalización de rutinas, SchoolFit puede diferenciarse de plataformas generalistas de gestión escolar o fitness. |  
+
+---
+
+### Tabla Comparativa de Competidores
+
+| Plataforma / Startup | Perfil / Overview | Ventaja Competitiva | Mercado Objetivo | Estrategias de Marketing | Productos y Servicios | Precios y Costos | Canales de Distribución | SWOT - Fortalezas | SWOT - Debilidades | SWOT - Oportunidades | SWOT - Amenazas | ¿Tiene lo necesario para competir? |
+|----------------------|------------------|---------------------|------------------|--------------------------|-----------------------|------------------|-------------------------|-------------------|--------------------|----------------------|-----------------|-----------------------------------|
+| **SchoolFit (Nuestra Startup)** | Plataforma web para gestionar educación física escolar: planificación, seguimiento, retos deportivos y reportes. | Enfoque especializado en educación física, integración de perfiles de estudiantes, analíticas y gamificación. | Colegios y docentes de educación física. | Alianzas con colegios, marketing en ferias educativas, demostraciones institucionales. | Perfiles de estudiantes, control de asistencia, rutinas personalizadas, retos deportivos, reportes. | Modelo SaaS con suscripción mensual por institución. | Web (desktop/tablet), con opción de app móvil a futuro. | Especialización en un nicho poco atendido, propuesta integral. | Requiere construir reputación y casos de éxito. | Expansión a nivel nacional, integración con apps de salud. | Competencia de plataformas de gestión escolar generalistas. | Sí. Su enfoque especializado lo hace único en un nicho poco explotado. |
+| **Edvoice** | Plataforma de comunicación escolar: tareas, avisos, asistencia, comunicación padres-docentes. | Comunicación directa con familias, fácil de usar. | Colegios en general. | Marketing digital, convenios escolares. | Comunicación, gestión básica escolar. | Suscripción por institución. | App móvil y web. | Fuerte en comunicación. | No especializada en educación física. | Posible integración con plataformas deportivas. | Competencia en comunicación educativa consolidada. | Parcialmente, pero no cubre educación física de forma profunda. |
+| **ClassDojo** | Plataforma global de comunicación y motivación escolar. | Gamificación para motivar estudiantes. | Escuelas de primaria y secundaria. | Estrategia viral, marketing en redes sociales. | Comunicación, motivación, gestión de aula. | Modelo freemium. | App móvil y web. | Comunidad global, fuerte engagement. | No enfocada en educación física ni seguimiento físico. | Alianzas educativas. | Competidores grandes (Google Classroom, etc.). | No compite directamente, pero es referente en engagement. |
+| **Sworkit (Sworkit Youth Initiative)** | App de fitness con programas para niños y jóvenes. | Rutas de entrenamiento físico adaptadas a edades. | Niños, adolescentes y padres interesados en fitness. | Marketing digital, partnerships con colegios en EE. UU. | Ejercicios personalizados, planes fitness. | Suscripción individual. | App móvil. | Experiencia en fitness infantil y juvenil. | No pensada para gestión institucional ni docentes. | Creciente interés en salud infantil. | Competencia de apps fitness masivas. | No cubre la parte institucional, solo el entrenamiento. |
+| **Edmodo (descontinuada, pero referente)** | Plataforma educativa para gestión y comunicación entre docentes y estudiantes. | Comunidad global de aprendizaje. | Escuelas de nivel básico y medio. | Comunidad en línea, marketing boca a boca. | Comunicación, contenido educativo. | Modelo freemium. | Web y app móvil. | Amplio alcance. | No especializada en educación física. | Inspiración para integraciones sociales. | Desplazada por Google Classroom. | Fue fuerte en su momento, pero no especializada en deporte. |
+
+
 ### 2.1.2. Estrategias y tácticas frente a competidores
 
 ## 2.2. Entrevistas
