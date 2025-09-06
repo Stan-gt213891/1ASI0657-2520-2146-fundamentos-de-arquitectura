@@ -69,7 +69,7 @@
 ## Registro de Versiones del Informe
 | Versión | Fecha | Autor | Descripción de modificación |
 |---------|-------|-------------|-------|
-|  TB1 | 11/09/2025 | -Angel Guillermo Berrospi Marin <br> -Javier Kenyi Mendoza Solis <br> - Jeremy | Se han incluido los siguientes capítulos: <br> - Capítulo I: Introducción <br> - Capítulo II: Requirements Elicitation & Analysis <br> - Capítulo III: Requirements Specification |
+|  TB1 | 11/09/2025 | -Angel Guillermo Berrospi Marin <br> -Javier Kenyi Mendoza Solis <br> -Stanley Jeremy Gutierrez Tume| Se han incluido los siguientes capítulos: <br> - Capítulo I: Introducción <br> - Capítulo II: Requirements Elicitation & Analysis <br> - Capítulo III: Requirements Specification |
 
 # Capítulo 1: Introducción
 
