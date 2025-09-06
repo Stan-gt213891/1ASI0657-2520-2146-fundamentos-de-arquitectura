@@ -220,6 +220,8 @@ Creemos que al incorporar herramientas de comunicación y reportes automáticos 
 
 # Capítulo 2: Requeriments Elicitation \& Analysis 
 
+En este capítulo se realizará el proceso de Análisis competitivo y Needfinding necesario para la identificación de las necesidades de nuestro segmento objetivo.  
+
 ## 2.1. Competidores
 
 ### 2.1.1. Análisis Competitivo
