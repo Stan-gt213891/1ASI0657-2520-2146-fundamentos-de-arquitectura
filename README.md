@@ -224,7 +224,7 @@ Creemos que si incorporamos funciones de seguimiento post-evaluación y herramie
 
 #### 1.2.2.4. Lean UX Canvas
 
-<img src="resources/Canvas-Funda.jpg" alt="Canvas_Funda" width="120"/>
+<img src="resources/Canvas-funda.jpg" alt="Canvas-funda" width="120"/>
 
 Link del canvas:
 https://miro.com/welcomeonboard/WWhFNjBzSjhEN1VPR2V1YzdsSHhtQmtXS2c3Y2hRbThNcEtJZmFJdXA4aU1LYlZvVWVMcjJrbE8vMTB0YWw3djdRam9kOHJjRXo0akNKdUpIMVBtMkk2L3RKN2Rta08xalpRdlRpRVkwNDc1MVJnTDg1TTVJWkNXcmFlSUprMFlQdGo1ZEV3bUdPQWRZUHQzSGl6V2NBPT0hdjE=?share_link_id=270498955847
