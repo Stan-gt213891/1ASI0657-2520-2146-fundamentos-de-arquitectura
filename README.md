@@ -293,6 +293,30 @@ Para comprender mejor cómo será la experiencia del usuario con nuestro product
 
 ### 2.3.2. User Task Matrix
 
+El User Task Matrix desarrollado compara las tareas principales de los dos segmentos objetivo: Docentes de educación física y Administradores/Directores de colegios.
+
+En el caso de los docentes, se observa que las tareas con mayor frecuencia e importancia son la planificación de clases y rutinas, el registro de asistencia, la evaluación del rendimiento físico y la motivación de los alumnos. Estas actividades forman parte de su labor diaria y reflejan la necesidad de herramientas que reduzcan la carga administrativa y les permitan enfocarse en la enseñanza.
+
+Por otro lado, los administradores realizan con alta frecuencia e importancia tareas relacionadas con la generación y revisión de reportes, la comunicación con padres de familia y la toma de decisiones institucionales. Su interés se centra en contar con información consolidada y confiable que les permita supervisar el desempeño estudiantil y garantizar la calidad educativa.
+
+De manera conjunta, se evidencia que la gestión de reportes es una tarea crítica para ambos perfiles: mientras que los docentes los generan, los administradores los consolidan y utilizan para la toma de decisiones. Este hallazgo resalta la importancia de que la solución propuesta facilite la creación de reportes automáticos y dashboards claros, que beneficien tanto la operación docente como la gestión institucional.
+
+# User Task Matrix – Docente - Administrador
+
+| **Tareas (Tasks)** | **Docente – Frecuencia** | **Docente – Importancia** | **Administrador – Frecuencia** | **Administrador – Importancia** |
+|---------------------|--------------------------|----------------------------|--------------------------------|---------------------------------|
+| Planificar clases y rutinas de educación física | Alta | Alta | Baja | Media |
+| Registrar asistencia de alumnos | Alta | Alta | Baja | Media |
+| Evaluar rendimiento físico de estudiantes | Alta | Alta | Media | Alta |
+| Motivar a los alumnos en la participación | Alta | Alta | Baja | Media |
+| Generar reportes de resultados | Media | Alta | Alta | Alta |
+| Revisar reportes y consolidar información | Baja | Media | Alta | Alta |
+| Comunicar avances a padres de familia | Baja | Media | Media | Alta |
+| Tomar decisiones institucionales | Baja | Media | Alta | Alta |
+| Gestionar equipamiento deportivo | Media | Media | Baja | Baja |
+| Asegurar prestigio y competitividad del colegio | Baja | Media | Alta | Alta |
+
+
 ### 2.3.3. Empathy Mapping
 
 *PROFESOR
@@ -315,9 +339,6 @@ Para comprender mejor cómo será la experiencia del usuario con nuestro product
 
 ![Untitled](resources/Untitled.jpg)
 
- main
-
- feature/chapter-2
 # Capítulo 3: Requirements Specification
 
 ### 3.1. To-Be Scenario Mapping
