@@ -112,7 +112,7 @@ Visión: Aspiramos a ser referentes en la innovación educativa, promoviendo un 
 | **Código del Estudiante** | U202118152                              |
 | **Carrera**               | Ingeniería de Software                     |
 | **Descripción**           | Me considero una persona responsable y comunicativa, apoyaré en todo lo posible en este trabajo para cumplir los obejtivos del curso.                         |
-| Foto                      |                                    |
+| Foto                      | <img src="resources/foto%20Stanley.jpg" alt="foto Stanley" width="120"/>|
 
 
 ## 1.2. Solution Profile
