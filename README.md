@@ -242,10 +242,7 @@ En este capítulo se realizará el proceso de Análisis competitivo y Needfindin
 
 | ¿Por qué llevar a cabo este análisis? | ¿Nuestro servicio tiene lo necesario para poder salir adelante ante sus competidores más conocidos? |
 
-**Competitive Analysis Landscape**
-
-Para identificar fortalezas, debilidades y diferenciadores de plataformas que también ofrecen soluciones digitales en el ámbito educativo. | Sí. Con un enfoque en la educación física escolar y la personalización de rutinas, SchoolFit puede diferenciarse de plataformas generalistas de gestión escolar o fitness. 
-
+***Competitive Analysis Landscape***
 
 |                       | <img src="./resources/schoolfit.png" width="100" height="100"><br>**SchoolFit (Nuestra Startup)** | <img src="./resources/Logo ClassDojo.png" width="100" height="100"><br>**ClassDojo** | <img src="./resources/Logo Edmodo.jpg" width="100" height="100"><br>**Edmodo** | <img src="./resources/Logo Google Classroom.png" width="100" height="100"><br>**Google Classroom** |
 |-----------------------|-----------------------------------------------------------|---------------------------------------------|-------------------------------------------|--------------------------------------|
