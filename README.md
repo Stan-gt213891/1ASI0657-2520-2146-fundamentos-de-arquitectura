@@ -96,7 +96,7 @@ Visión: Aspiramos a ser referentes en la innovación educativa, promoviendo un 
 | **Código del Estudiante** | U202114701                         |
 | **Carrera**               | Ingeniería de Software             |
 | **Descripción**           | Soy estudiante de Ingeniería de Software. Tendre el compromiso con mi equipo. Cuento con conocimientos en html, css, javascript y SQL, lo cual puede ser de ayuda en el desarrollo del proyecto  |
-| Foto                      |   ![Integrante-Angel-Berrospi.jpg](../1ASI0657-2520-2146-fundamentos-de-arquitectura/resources/) |
+| Foto                      |   ![Integrante-Angel-Berrospi](resources/Integrante-Angel-Berrospi.jpg) |
 
 
 | **Integrante**            | **Javier Kenyi Mendoza Solis**                                             |
