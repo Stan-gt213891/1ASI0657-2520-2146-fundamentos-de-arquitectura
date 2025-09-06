@@ -224,9 +224,12 @@ En este capítulo se realizará el proceso de Análisis competitivo y Needfindin
 
 ## 2.1. Competidores
 
+
 ### 2.1.1. Análisis Competitivo
 
+| ¿Por qué llevar a cabo este análisis? | ¿Nuestro servicio tiene lo necesario para poder salir adelante ante sus competidores más conocidos? |
 
+**Competitive Analysis Landscape**
 
 |---------------------------------------|-----------------------------------------------------------------------------------------------------|  
 | Para identificar fortalezas, debilidades y diferenciadores de plataformas que también ofrecen soluciones digitales en el ámbito educativo. | Sí. Con un enfoque en la educación física escolar y la personalización de rutinas, SchoolFit puede diferenciarse de plataformas generalistas de gestión escolar o fitness. |  
