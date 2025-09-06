@@ -96,7 +96,7 @@ Visión: Aspiramos a ser referentes en la innovación educativa, promoviendo un 
 | **Código del Estudiante** | U202114701                         |
 | **Carrera**               | Ingeniería de Software             |
 | **Descripción**           | Soy estudiante de Ingeniería de Software. Tendre el compromiso con mi equipo. Cuento con conocimientos en html, css, javascript y SQL, lo cual puede ser de ayuda en el desarrollo del proyecto  |
-| Foto                      |   ![Integrante-Angel-Berrospi.jpg](../1ASI0657-2520-2146-fundamentos-de-arquitectura/resources/) |
+| Foto                      |   ![Integrante-Angel-Berrospi](resources/Integrante-Angel-Berrospi.jpg) |
 
 
 | **Integrante**            | **Javier Kenyi Mendoza Solis**                                             |
@@ -112,7 +112,7 @@ Visión: Aspiramos a ser referentes en la innovación educativa, promoviendo un 
 | **Código del Estudiante** | U202118152                              |
 | **Carrera**               | Ingeniería de Software                     |
 | **Descripción**           | Me considero una persona responsable y comunicativa, apoyaré en todo lo posible en este trabajo para cumplir los obejtivos del curso.                         |
-| Foto                      |                                    |
+| Foto                      | <img src="resources/foto%20Stanley.jpg" alt="foto Stanley" width="120"/>|
 
 
 ## 1.2. Solution Profile
@@ -216,7 +216,20 @@ Creemos que al incorporar herramientas de comunicación y reportes automáticos 
 
 #### 1.2.2.4. Lean UX Canvas
 
-## 1.3. Segmentos objetivo.
+#### 1.3 Segmentos Objetivos 
+
+**1. Administradores / Directores de Colegios (tomadores de decisiones institucionales)**  
+- Directores que buscan optimizar la gestión de la educación física en su institución.  
+- Administradores interesados en contar con reportes y analíticas claras para mejorar la toma de decisiones.  
+- Instituciones educativas que desean digitalizar el control de asistencia, evaluaciones y recursos deportivos.  
+- Colegios que buscan innovar y diferenciarse mediante el uso de tecnología educativa.  
+
+**2. Docentes de Educación Física (usuarios principales de la plataforma)**  
+- Profesores que necesitan planificar rutinas deportivas personalizadas según edad y condición física.  
+- Docentes que buscan herramientas digitales para registrar evaluaciones, asistencia y pruebas físicas.  
+- Profesores interesados en dar un seguimiento continuo al progreso de sus estudiantes.  
+- Educadores que desean ahorrar tiempo administrativo y centrarse en mejorar la enseñanza práctica.  
+
 
 # Capítulo 2: Requeriments Elicitation \& Analysis 
 
@@ -302,6 +315,9 @@ Para comprender mejor cómo será la experiencia del usuario con nuestro product
 
 ![Untitled](resources/Untitled.jpg)
 
+ main
+
+ feature/chapter-2
 # Capítulo 3: Requirements Specification
 
 ### 3.1. To-Be Scenario Mapping
