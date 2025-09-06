@@ -216,7 +216,20 @@ Creemos que al incorporar herramientas de comunicación y reportes automáticos 
 
 #### 1.2.2.4. Lean UX Canvas
 
-## 1.3. Segmentos objetivo.
+## 1.3. Segmentos objetivos 
+
+**1. Administradores / Directores de Colegios (tomadores de decisiones institucionales)**  
+- Directores que buscan optimizar la gestión de la educación física en su institución.  
+- Administradores interesados en contar con reportes y analíticas claras para mejorar la toma de decisiones.  
+- Instituciones educativas que desean digitalizar el control de asistencia, evaluaciones y recursos deportivos.  
+- Colegios que buscan innovar y diferenciarse mediante el uso de tecnología educativa.  
+
+**2. Docentes de Educación Física (usuarios principales de la plataforma)**  
+- Profesores que necesitan planificar rutinas deportivas personalizadas según edad y condición física.  
+- Docentes que buscan herramientas digitales para registrar evaluaciones, asistencia y pruebas físicas.  
+- Profesores interesados en dar un seguimiento continuo al progreso de sus estudiantes.  
+- Educadores que desean ahorrar tiempo administrativo y centrarse en mejorar la enseñanza práctica.  
+
 
 # Capítulo 2: Requeriments Elicitation \& Analysis 
 
