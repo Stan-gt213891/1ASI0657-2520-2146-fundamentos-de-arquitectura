@@ -233,9 +233,38 @@ Creemos que al incorporar herramientas de comunicación y reportes automáticos 
 
 # Capítulo 2: Requeriments Elicitation \& Analysis 
 
+En este capítulo se realizará el proceso de Análisis competitivo y Needfinding necesario para la identificación de las necesidades de nuestro segmento objetivo.  
+
 ## 2.1. Competidores
 
+
 ### 2.1.1. Análisis Competitivo
+
+| ¿Por qué llevar a cabo este análisis? | ¿Nuestro servicio tiene lo necesario para poder salir adelante ante sus competidores más conocidos? |
+
+**Competitive Analysis Landscape**
+
+|---------------------------------------|-----------------------------------------------------------------------------------------------------|  
+| Para identificar fortalezas, debilidades y diferenciadores de plataformas que también ofrecen soluciones digitales en el ámbito educativo. | Sí. Con un enfoque en la educación física escolar y la personalización de rutinas, SchoolFit puede diferenciarse de plataformas generalistas de gestión escolar o fitness. |  
+
+
+|                       | <img src="./img/schoolfit.png" width="100" height="100"><br>**SchoolFit (Tu Startup)** | <img src="./img/classdojo.png" width="100" height="100"><br>**ClassDojo** | <img src="./img/edmodo.png" width="100" height="100"><br>**Edmodo** | <img src="./img/googleclassroom.png" width="100" height="100"><br>**Google Classroom** |
+|-----------------------|-----------------------------------------------------------|---------------------------------------------|-------------------------------------------|--------------------------------------|
+| **Perfil / Overview** | Plataforma que centraliza la planificación y seguimiento de educación física en colegios. Gestión de rutinas, evaluaciones, reportes y progreso. | Plataforma de comunicación entre profesores, alumnos y padres. Foco en cultura escolar y motivación. | Red social educativa para compartir materiales, tareas y comunicación docente-estudiante. | Herramienta de Google para gestión de clases, tareas y recursos digitales. |
+| **Ventaja Competitiva** | Especialización en educación física. Métricas claras de rendimiento y salud. Integración de reportes automáticos. | Comunicación directa y sencilla con padres y alumnos. Muy extendida en primaria. | Amplia comunidad global y facilidad de uso como red social educativa. | Integración con ecosistema Google (Docs, Drive, Meet). Simplicidad y acceso gratuito. |
+| **Mercado Objetivo** | Directores y docentes de educación física en colegios que buscan digitalizar y optimizar la gestión deportiva. | Docentes y colegios interesados en fortalecer la comunicación escuela-hogar. | Profesores que buscan una red social educativa accesible para organizar clases. | Instituciones educativas que ya usan servicios de Google y requieren gestión básica de clases. |
+| **Estrategias de Marketing** | Alianzas con colegios, demostraciones en instituciones, marketing en ferias educativas y asociaciones deportivas. | Marketing viral en escuelas primarias y uso gratuito para captar usuarios. | Campañas en comunidades educativas online y alianzas con escuelas internacionales. | Distribución masiva vía integración con Google Workspace for Education. |
+| **Productos y Servicios** | Planificación de rutinas deportivas, control de asistencia, evaluaciones físicas, reportes de progreso y métricas institucionales. | Herramientas de comunicación, mensajería, recompensas virtuales para estudiantes. | Compartir tareas, foros de discusión, evaluaciones y materiales. | Publicación de tareas, evaluaciones, integración con apps de Google. |
+| **Precios y Costos** | Modelo freemium: funcionalidades básicas gratuitas + plan premium para instituciones (reportes avanzados y analíticas). | Gratis para profesores. Versiones premium para escuelas con funciones extra. | Principalmente gratuito, con funciones premium para instituciones. | Gratuito como parte de Google for Education. |
+| **Canales de Distribución** | Plataforma web + app móvil. Acceso vía login institucional. | App móvil y web. | Web y app móvil. | Web y app móvil integrados en Google Workspace. |
+| **SWOT - Fortalezas** | Enfoque especializado en educación física, analíticas precisas, diferenciación frente a plataformas generalistas. | Fuerte conexión profesor-padre, gamificación motivacional. | Comunidad amplia, facilidad de uso estilo red social. | Ecosistema Google, confianza de marca, acceso gratuito. |
+| **SWOT - Debilidades** | Startup emergente sin comunidad consolidada. Requiere inversión en marketing y adopción inicial. | Limitado a comunicación, no gestiona contenido curricular en detalle. | Pérdida de relevancia en algunos mercados, interfaz desactualizada. | No está diseñado específicamente para educación física ni métricas deportivas. |
+| **SWOT - Oportunidades** | Creciente digitalización de colegios, énfasis en salud y deporte escolar, alianzas con ministerios de educación. | Expandirse con funciones adicionales para gestión escolar. | Reposicionar como red social académica más moderna. | Potencial de crecer en regiones con baja penetración de GSuite. |
+| **SWOT - Amenazas** | Competidores con gran comunidad ya establecida. Retos en escalabilidad y captación inicial. | Competencia de plataformas más completas. | Riesgo de abandono de usuarios hacia plataformas más integradas. | Posible dependencia excesiva de políticas de Google. |
+| **¿Tiene lo necesario para competir?** | Sí. Con su enfoque en educación física, SchoolFit puede diferenciarse frente a plataformas generalistas. Requiere enfocarse en alianzas estratégicas y marketing inicial para posicionarse en colegios. | Sí. Con una base fuerte en escuelas primarias, aunque limitado a comunicación. | Sí. Aún tiene reconocimiento global, pero necesita modernización para competir. | Sí. Gracias al ecosistema Google, aunque sin enfoque específico en deporte o educación física. |
+
+
+
 
 ### 2.1.2. Estrategias y tácticas frente a competidores
 
@@ -286,7 +315,9 @@ Para comprender mejor cómo será la experiencia del usuario con nuestro product
 
 ![Untitled](resources/Untitled.jpg)
 
+ main
 
+ feature/chapter-2
 # Capítulo 3: Requirements Specification
 
 ### 3.1. To-Be Scenario Mapping
