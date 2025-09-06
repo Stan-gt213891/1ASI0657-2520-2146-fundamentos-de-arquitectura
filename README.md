@@ -264,6 +264,62 @@ En este capítulo se realizará el proceso de Análisis competitivo y Needfindin
 
 ### 2.1.2. Estrategias y tácticas frente a competidores
 
+### 1. Aprovechar la Fortaleza: Enfoque Integral en Educación Física Digital  
+
+**Estrategia**  
+Diferenciar la plataforma mediante la digitalización completa de la gestión en educación física (asistencia, evaluaciones, rutinas y reportes) en un solo lugar, frente a apps más generales de gestión escolar.  
+
+**Tácticas**  
+- Resaltar la especialización en educación física en el material de marketing.  
+- Mostrar casos de uso reales en colegios para evidenciar el ahorro de tiempo y la facilidad de uso.  
+- Compararse con sistemas de gestión escolar generales (como Google Classroom o Moodle) destacando la especificidad de SchoolFit en el ámbito deportivo.  
+
+**Valor Añadido**  
+- Posicionarse como la primera opción en el nicho de educación física.  
+- Generar fidelidad al resolver necesidades que los competidores generales no cubren.  
+
+### 2. Aprovechar la Oportunidad: Crecimiento del Interés en Bienestar y Tecnología Educativa  
+
+**Estrategia**  
+Posicionar a SchoolFit como la plataforma clave en la digitalización del deporte escolar, aprovechando la tendencia creciente hacia la innovación educativa y el bienestar estudiantil.  
+
+**Tácticas**  
+- Crear contenido en redes sociales y blogs sobre la importancia de medir y gestionar la actividad física en estudiantes.  
+- Alianzas con colegios e instituciones educativas para pruebas piloto.  
+- Incorporar funciones interactivas: dashboards de progreso, gamificación y métricas de rendimiento físico.  
+
+**Valor Añadido**  
+- Aumentar la adopción por parte de colegios que buscan innovar.  
+- Convertirse en referente en el ámbito de edtech deportivo.
+
+### 3. Afrontar la Amenaza de Competidores Consolidados en EdTech  
+
+**Estrategia**  
+Aplicar un enfoque de marketing centrado en la especialización, usabilidad y valor agregado en educación física frente a plataformas grandes y generalistas.  
+
+**Tácticas**  
+- Comunicar la ventaja de contar con módulos específicos para asistencia y evaluación deportiva.  
+- Ofrecer un modelo freemium para que colegios puedan probar el sistema antes de contratar licencias premium.  
+- Personalizar reportes y métricas para adaptarse a distintos niveles escolares.  
+
+**Valor Añadido**  
+- Diferenciación clara frente a sistemas más amplios que no se adaptan bien al área deportiva.  
+- Mayor confianza por parte de los colegios al ver soluciones diseñadas específicamente para ellos.  
+
+### 4. Aprovechar la Debilidad de Competidores Dependientes de SEO y Nichos Generales  
+
+**Estrategia**  
+Implementar estrategias de marketing digital y presencia institucional enfocadas en el nicho educativo y deportivo.  
+
+**Tácticas**  
+- Marketing de contenido dirigido a docentes y administradores (ej. *“Cómo digitalizar tu clase de educación física en 5 pasos”*).  
+- Publicidad segmentada en redes sociales orientada a colegios privados y públicos innovadores.  
+- Alianzas con ministerios, federaciones deportivas escolares o asociaciones educativas para generar confianza y visibilidad.  
+
+**Valor Añadido**  
+- Posicionamiento más rápido en el sector gracias al enfoque especializado.  
+- Mayor tracción en un mercado poco cubierto por plataformas grandes.  
+
 ## 2.2. Entrevistas
 
 ### 2.2.1. Diseño de entrevistas
