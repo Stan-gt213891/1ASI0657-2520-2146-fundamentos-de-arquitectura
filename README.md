@@ -324,6 +324,44 @@ Implementar estrategias de marketing digital y presencia institucional enfocadas
 
 ### 2.2.1. Diseño de entrevistas
 
+### Preguntas Generales  
+
+- ¿Cuál es su nombre?  
+- ¿Cuántos años tiene usted?  
+- ¿En qué ciudad y distrito reside? ¿Es un área urbana o rural?  
+- ¿A qué institución educativa pertenece y qué rol desempeña (docente, coordinador, director, etc.)? 
+
+### Preguntas Específicas  
+
+Soy (nombre y apellido) del curso Fundamentos de Aqruitectura de Software, realizando una entrevista a (entrevistado), quien es (cargo en la institución). El objetivo de esta entrevista es conocer los principales retos y necesidades en la gestión de clases de educación física para el desarrollo del proyecto SchoolFit.  
+
+### 1. Docentes de Educación Física  
+
+**Preguntas principales:**  
+
+- ¿Cómo gestionas actualmente la asistencia y las evaluaciones de tus estudiantes en educación física?  
+- Si tuvieras una herramienta digital que te ayudara a ahorrar tiempo en tu trabajo, ¿qué procesos te gustaría automatizar primero (asistencia, calificaciones, reportes, etc.)?  
+- Cuando piensas en evaluar el rendimiento físico de los estudiantes, ¿qué indicadores consideras más importantes (participación, resistencia, coordinación, progreso individual, etc.)?  
+- Si pudieras diseñar tu propia plataforma para educación física, ¿qué características no deberían faltar (ej. reportes automáticos, comparación de progreso, integración con notas generales)?  
+- ¿Qué tan cómodo te sientes usando tecnología en tus clases de educación física? ¿Prefieres soluciones muy completas pero más complejas o herramientas sencillas aunque tengan menos funciones?  
+- ¿Qué tanto valor le das a que los padres puedan acceder a reportes del progreso físico de sus hijos?  
+- En una escala del 1 al 10, ¿qué tan necesario crees que es digitalizar la gestión de la educación física en tu institución?  
+- ¿Qué dificultades encuentras actualmente al comunicar los resultados de tus alumnos a los directivos o a los padres de familia?  
+
+### 2. Instituciones Educativas (Coordinadores / Directores)  
+
+**Preguntas principales:**  
+
+- ¿Cómo supervisan actualmente las clases de educación física en su institución?  
+- ¿Qué tipo de reportes sobre rendimiento físico les gustaría recibir de forma periódica?  
+- ¿Qué beneficios cree que tendría implementar una plataforma como SchoolFit en la organización de las clases?  
+- En cuanto a la inversión en tecnología educativa, ¿qué factores toman en cuenta al decidir qué plataformas adoptar?  
+- ¿Qué tan importante consideran la integración de datos de educación física con otros indicadores académicos?  
+- Si tuvieran que presentar a los padres avances de sus hijos en educación física, ¿qué formato sería más útil (tablas, gráficas, dashboards interactivos, informes PDF)?  
+- ¿Qué obstáculos perciben para la implementación de una solución como esta en su institución?  
+- En una escala del 1 al 10, ¿qué tan prioritario es para ustedes digitalizar procesos de gestión deportiva?  
+
+
 ### 2.2.2. Registro de entrevistas
 
 ### 2.2.3. Análisis de entrevistas
