@@ -378,6 +378,19 @@ Link de la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u201824
 
 Katy comenta que le encantaria contar con una plataforma sencilla y práctica que le pueda permitir organizar asistencia y evaluaciones sin interrumpir el desarrollo de sus clases. Considera fundamental que la aplicación genere reportes visuales claros que muestren el progreso individual de cada estudiante, de modo que puedan ser compartidos con padres y directivos. Prefiere que los indicadores se centren en aspectos básicos como participación, coordinación y resistencia, priorizando el avance personal de cada niño en lugar de la competencia entre ellos. Señala como necesidad principal la digitalización de la gestión de educación física para ahorrar tiempo y dar mayor visibilidad al área, calificando este punto con un nivel de importancia de 9 sobre 10. Además, identifica como problemas actuales la falta de formatos estandarizados y la dificultad de los padres para comprender los resultados de sus hijos.
 
+Entrevista 2:
+
+-Nombre: Karla Mendes
+-Edad: 25
+-Distrito: Surco
+
+![Foto Entrevista](resources/foto%20entrevista.png)
+
+Link de la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118152_upc_edu_pe/Ef2yaDAqeCBBpqC1H0sBpyEBVHbk5Vt8irL0tECisANw4g?e=msKHPJ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+Karla comenta que la participación y el progreso individual son los más importantes, a su vez le toma mucho tiempo preparar los reportes y no siempre son claros.Nos conenta que es urgente modernizar estos procesos es decir, digitalizar la gestión de la educación física en su institución donde trabaja.
+Desearía tener una herramientas facil de usar , que le ayude con los reportes automáticos y la comparación del progreso de los alumnos para que sigan el proceso mas a detalle de cada alumno.
+
 
 
 ### 2.2.3. Análisis de entrevistas
