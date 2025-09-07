@@ -378,6 +378,11 @@ Link de la entrevista:
 
 ### 2.2.3. Análisis de entrevistas
 
+| Nombre              | Preferencias y Recomendaciones |
+|---------------------|--------------------------------|
+| **Katy Alva** | Prefiere una plataforma sencilla y práctica que le permita registrar asistencia y evaluaciones de forma rápida, sin perder tiempo en clase. Valora mucho los reportes visuales que muestren el progreso individual de los estudiantes y que puedan compartirse fácilmente con padres y directivos. Recomienda incluir indicadores básicos como participación, coordinación y resistencia, priorizando el progreso individual sobre el rendimiento competitivo. Considera muy necesario digitalizar la gestión de educación física para ahorrar tiempo y dar más visibilidad al área. Identifica como problema actual la falta de formatos estandarizados y la dificultad para que los padres comprendan los resultados. |
+
+
 ## 2.3. Needfinding
 
 Para comprender mejor cómo será la experiencia del usuario con nuestro producto, emplearemos herramientas como User Persona, User Task Matrix, User Journey Mapping, Empathy Mapping y As-is Scenario Mapping.
