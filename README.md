@@ -366,16 +366,17 @@ Soy (nombre y apellido) del curso Fundamentos de Aqruitectura de Software, reali
 
 Segmento 1: Profesores de educacion fisica
 
-- Entrevista 1: 
+Entrevista 1 
+
 - Nombre: Katy Alva
 - Edad: 24
 - Distrito: San Borja
 
-![Entrevista1](resources/Entrevista funda1.png)
+![Entrevista1](resources/Entrevista_funda1.png)
 
 Link de la entrevista:
 
-[https://youtu.be/IajmZ_Op-dQ](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201824550_upc_edu_pe/EVjMbnfWO_VCiMQYTTvXKLMBWK42FwjwFXS4WbttoTG81w?e=yB89DE)
+(https://upcedupe-my.sharepoint.com/:v:/g/personal/u201824550_upc_edu_pe/EVjMbnfWO_VCiMQYTTvXKLMBWK42FwjwFXS4WbttoTG81w?e=yB89DE)
 
 
 
