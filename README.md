@@ -371,9 +371,13 @@ Segmento 1: Profesores de educacion fisica
 - Edad: 24
 - Distrito: San Borja
 
-
+![Entrevista1](resources/Entrevista funda1.png)
 
 Link de la entrevista:
+
+[https://youtu.be/IajmZ_Op-dQ](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201824550_upc_edu_pe/EVjMbnfWO_VCiMQYTTvXKLMBWK42FwjwFXS4WbttoTG81w?e=yB89DE)
+
+
 
 
 ### 2.2.3. Análisis de entrevistas
