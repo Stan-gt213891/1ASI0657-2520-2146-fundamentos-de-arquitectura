@@ -372,7 +372,7 @@ Entrevista 1
 - Edad: 24
 - Distrito: San Borja
 
-![Entrevista1](resources/Entrevista_funda1.png)
+<img src="./resources/Entrevista funda1.png" width="1000" height="1000">
 
 Link de la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u201824550_upc_edu_pe/EVjMbnfWO_VCiMQYTTvXKLMBWK42FwjwFXS4WbttoTG81w?e=yB89DE
 
