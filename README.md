@@ -364,11 +364,16 @@ Soy (nombre y apellido) del curso Fundamentos de Aqruitectura de Software, reali
 
 ### 2.2.2. Registro de entrevistas
 
-- Segmento 1: Profesores de educacion fisica
+Segmento 1: Profesores de educacion fisica
+
 - Entrevista 1: 
 - Nombre: Katy Alva
 - Edad: 24
 - Distrito: San Borja
+
+
+
+Link de la entrevista:
 
 
 ### 2.2.3. Análisis de entrevistas
