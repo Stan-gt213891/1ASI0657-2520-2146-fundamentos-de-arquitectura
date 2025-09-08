@@ -252,8 +252,13 @@ Para comprender mejor cómo será la experiencia del usuario con nuestro product
 
 A continuación se presenta la realizacion del To-Be Scenario Mapping por cada user persona.
 
+Segmento #1: Profesor de Educacion fisica
+
 <img src="./resources/Tobe_Scenario _Profesor.jpg" width="1000" height="1000">
 
+Segmento #2: Instituciones Educativas 
+
+<img src="./resources/Tobe_Scenario _Institucion.jpg" width="1000" height="1000">
 
 
 ### 3.2. User Stories
