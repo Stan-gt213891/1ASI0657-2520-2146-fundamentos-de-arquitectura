@@ -250,6 +250,11 @@ Para comprender mejor cómo será la experiencia del usuario con nuestro product
 
 ### 3.1. To-Be Scenario Mapping
 
+A continuación se presenta la realizacion del To-Be Scenario Mapping por cada user persona.
+
+![Tobe_Scenario_Profesor](resources/Tobe_Scenario _Profesor.jpg)
+
+
 ### 3.2. User Stories
 
 ### 3.3. Impact Mapping
