@@ -252,7 +252,7 @@ Para comprender mejor cómo será la experiencia del usuario con nuestro product
 
 A continuación se presenta la realizacion del To-Be Scenario Mapping por cada user persona.
 
-<img src="resources/Tobe_Scenario_Profesor.jpg" alt="Tobe_Scenario_Profesor" width="1000"/>
+<img src="./resources/Tobe_Scenario_Profesor.jpg" width="1000" height="1000">
 
 
 
