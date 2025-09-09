@@ -391,6 +391,17 @@ Link de la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118
 Karla comenta que la participación y el progreso individual son los más importantes, a su vez le toma mucho tiempo preparar los reportes y no siempre son claros.Nos conenta que es urgente modernizar estos procesos es decir, digitalizar la gestión de la educación física en su institución donde trabaja.
 Desearía tener una herramientas facil de usar , que le ayude con los reportes automáticos y la comparación del progreso de los alumnos para que sigan el proceso mas a detalle de cada alumno.
 
+Segmento 2: Administradores o Directores 
+
+Entrevista 1:
+
+-Nombre: Estefania 
+-Edad: 26
+-Distrito: San Juan de Lurigancho
+
+<img width="700" height="600" alt="image" src="https://github.com/user-attachments/assets/77e0ab16-3c1d-43a7-899a-f1508919ab13" />
+
+Link de la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114701_upc_edu_pe/Eehc7pDWBB5Np9hLEle2uqwBD_8NgLZfFsgxiCz6Rm-7PA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=lEd4oq
 
 
 ### 2.2.3. Análisis de entrevistas
